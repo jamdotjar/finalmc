@@ -1,0 +1,16 @@
+name = "Finalmc"
+author = "Jamdotjar"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eae9e015cfbb707870b62d03382d41d00a53bc55dc41ebc2a00e0ab3a5e3ff8b"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.4"
+
+[options]
+acceptable-game-versions = ["1.20.1"]

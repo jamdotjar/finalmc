@@ -1,0 +1,161 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/banhammer.pw.toml"
+hash = "983bfbf5e1f69bc0e081dd59bdacf934324d474679c0f41931883b6ae4a69ac0"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "b0a4bd4b6b0e4a06b0f6edd9abcd141f6722a471d230e6bf8a138154596255f7"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "83ed5c4348940b7244ef9e6ae8ec2c9b18e4b93465872a39c54dc018927debd5"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "1964f8bf4fe2e7b29b5f98ba1cef357a0527307b9241bf2ddfd59b74eb9a4a2d"
+metafile = true
+
+[[files]]
+file = "mods/cyanide.pw.toml"
+hash = "ba610e0508a5554e32a237f2fccdd6d2c78b0896dfa10b35dc24a782b9cae585"
+metafile = true
+
+[[files]]
+file = "mods/dataloader.pw.toml"
+hash = "fba69b4019ac182a4c028baa177a38e9cbe3a15915aae58b647b0bba315d68cf"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "19efcf12a9044852d2ce88c2ff00a8b48e0ddff86773a1a156543d1fa71ceff3"
+metafile = true
+
+[[files]]
+file = "mods/economical-villager-trading.pw.toml"
+hash = "00ed38632210f94677e35c5f497fc5e58e3c4c4ad477b7d5eccd1d3be607298a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "6c8df36f3375910b29594203eb89f1f72d9e9b1a8a73b97a4ef786113d0ed6ad"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "8f31f9669801ff1bd36b9e061cba9966c784117a4a81f98ec3a8ed0735bd56d3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "0e255fdef786cb44191db898a911dab8e7e9bff0f9a0b1ee9b453707522a058f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0654725d644d971636f3b08dd7456ca7e0b8f25068de69c4b5aea256ee3a0f66"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "a06c64955618fab6a4668eaac97f68adb210237519ecc7766362ee54bd5edde4"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "a068765346e31158bbdb601ef3a02e99182367e3d6f31250943e3934bb33d857"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "93c0cb6833c425980e0870cff450b44efd14c1327a1f2e52bde7d5644a740180"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "a9adcfa8ef8eb848a913c9b7ffbab89c70b4df24a6ed075ed9c473b7b07a2166"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "b39682962003795c0460309315f1ad3672d89310e26df1633d3d5e8e131454fc"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "acbac0dfc2d12cb758d77cd705f666e677837a2497168e85212f2d2e899a398c"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "d2e79b6f83ec10bb1d275186e8f79048ca73ca48b434c2539bf2542d86f2cf56"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "a2b85b9028fbe22b65e0bb3266adef33b859a07d88bc11121cf3ee0dc116a23e"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "b33d7e2107f39202f200be55051457551aaf4b389af68aa8f417a140f3e6e260"
+metafile = true
+
+[[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "55259f4f01b6c6ceae925da29273c12dc7acfb9edc10b7b97d4b8954571e0fb5"
+metafile = true
+
+[[files]]
+file = "mods/viabackwards.pw.toml"
+hash = "447311175a00e1bdfda1b80e07b8bc39e974e746be2fa272db6ada85a887f607"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "4c424b0de655a24a16833d18e903a9cfc57a9be72e04c281cc5c1453ce144618"
+metafile = true
+
+[[files]]
+file = "mods/zombify.pw.toml"
+hash = "95e6445acecb4fd470a5688db2eba029251568bf8f63ebec9cea6dda62bffe2e"
+metafile = true

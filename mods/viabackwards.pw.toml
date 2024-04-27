@@ -1,0 +1,13 @@
+name = "ViaBackwards"
+filename = "ViaBackwards-4.10.0-23w51b-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NpvuJQoq/versions/x5xUhIzt/ViaBackwards-4.10.0-23w51b-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "b35eb2593d8f8dd787e848bb2bd4ec3c25df6430"
+
+[update]
+[update.modrinth]
+mod-id = "NpvuJQoq"
+version = "x5xUhIzt"
