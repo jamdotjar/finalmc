@@ -1,0 +1,13 @@
+name = "Better Dogs"
+filename = "Better_Dogs_V0.41.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dqHyaXIs/versions/6DtmY69r/Better_Dogs_V0.41.zip"
+hash-format = "sha512"
+hash = "cbd1280ef22632e70a364703791ba6e514fd74e1e22c16ecc34081238694299f0556d5a03ef7b8fe8ed65557be2986bcfae6e8e233747c616e2eec12884a2537"
+
+[update]
+[update.modrinth]
+mod-id = "dqHyaXIs"
+version = "6DtmY69r"

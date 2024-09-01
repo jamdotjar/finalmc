@@ -1,12 +1,12 @@
 name = "Finalmc"
 author = "jamdotjar"
-version = "1.0.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "37e40f1bfbcddbb4f0ad18c3ae70272862f5ea9ad841f4c25f78a42153272227"
+hash = "bd0614564966572fede4452db19f2acf55c95f583aece4100548000c1aecfada"
 
 [versions]
 minecraft = "1.20.1"
