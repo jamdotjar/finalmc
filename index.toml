@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/additional-placements-fabric.pw.toml"
+hash = "eeeb5ae945c8aea7e76404d71f0118ffc511e72fa2db893cd03a6cec83bbd29f"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "b3eccd4cf5e295af72a29ae0a081106ae9e42791a3180e15f766f1946455f04a"
 metafile = true
@@ -33,11 +38,6 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
-metafile = true
-
-[[files]]
-file = "mods/autoslabs.pw.toml"
-hash = "8f9492f81669ba65c30fbe182b56566c065dc00e96afdd535a37f4581be36a81"
 metafile = true
 
 [[files]]
@@ -216,6 +216,16 @@ hash = "7ed1400a20b6b815a79adb53d2ce333903764b8208cc69de7b72c2353502a761"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
@@ -373,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/geode-plus.pw.toml"
 hash = "4d23726c71459e2dbdf63d3bf064b1c18455453ee9926873f84e4ad80d15c2db"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
 metafile = true
 
 [[files]]
@@ -631,8 +646,18 @@ hash = "6ce5b84c9c00519a748d14e51313725a6783939baca49ac5e92abe8163eb1da2"
 metafile = true
 
 [[files]]
+file = "mods/porting_lib.pw.toml"
+hash = "d0c32979073f5ae95c75e59db0627c58180156dfb8e2f59db166a88038cba979"
+metafile = true
+
+[[files]]
 file = "mods/prometheus.pw.toml"
 hash = "4407cfe2230b77e9c014117744b6389178c3e33dd70cac59f93acee19d05e325"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "3b7a584ea5637c21f97d149d929a2505eb229c87eaab5fd7e4699a30515decc5"
 metafile = true
 
 [[files]]
@@ -643,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "af5a47f0112970ece314e37583a64ab4ca0a6192f3a06c95c7097a10121ddc4b"
+metafile = true
+
+[[files]]
+file = "mods/qu-enchantments.pw.toml"
+hash = "aa6092e273a36455bd585b1c08c4b978dd4d93e203e3e0c77e947462ebf36fc5"
 metafile = true
 
 [[files]]
@@ -708,6 +738,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7527da59110ce1095860a16f5d776de4863124c5259cc7cf615d36626e155d9a"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "97e82bdfb6735a8eed7f0a4727290d7cc2d3f7b2d4bf2d6a5ff4c7e34fea9513"
 metafile = true
 
 [[files]]
@@ -883,16 +918,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
-metafile = true
-
-[[files]]
-file = "mods/zenith-attributes.pw.toml"
-hash = "676eb2698f4066c592d336eb360353f8f0b494fb1dd5a0886e99128350913802"
-metafile = true
-
-[[files]]
-file = "mods/zenith.pw.toml"
-hash = "c72636867ca6bcdd20485502481976a53fe87c1ea6ff39acfd28ecd7ccea7a03"
 metafile = true
 
 [[files]]
