@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/additional-placements-fabric.pw.toml"
-hash = "eeeb5ae945c8aea7e76404d71f0118ffc511e72fa2db893cd03a6cec83bbd29f"
+hash = "c77e1b79c3cc683785d7d5bf2ebd7f04bab469c26650a0e5f0431ef4c5961ab7"
 metafile = true
 
 [[files]]
@@ -18,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "95d278261dad118bd5ce0474d4f8d05ceab0c81e16159cb94182b550187cd473"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "0fb0e95ae0924a0528db8f930da37efdba36861a742b0f1b3e060dfd65474ca4"
 metafile = true
 
 [[files]]
@@ -828,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "8c8ff7793de210cbe8f481341cd4c9c97d5b26117bd8ad368c8e5cfb80c1f082"
 metafile = true
 
 [[files]]
