@@ -6,6 +6,11 @@ hash = "eeeb5ae945c8aea7e76404d71f0118ffc511e72fa2db893cd03a6cec83bbd29f"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "e1abd0364acb2ae881299145c37d33ce32781029411449f1f3af574e840f7daa"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "b3eccd4cf5e295af72a29ae0a081106ae9e42791a3180e15f766f1946455f04a"
 metafile = true
@@ -61,8 +66,18 @@ hash = "f04afb24089cbef0b19b3abebfa248ae3241d821955c793fdb7c465b862134f7"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "a5a7f8f0a4253f63fcf723361ac001d3ae072030f680c9f2176ff4e7d90e8da0"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "a6a69c5624a7b3e5ef925b0db9191ee3ae4872fd02f8ae3535fbb3a3040acfd5"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "5397fdcce44eeb62b5f102c1e4cb8c7de175d8d68ca73b758b594fefd16b073a"
 metafile = true
 
 [[files]]
@@ -73,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/better-than-bunnies.pw.toml"
 hash = "0932f69a3cc832ed7f50363e170aa69dd1943e9a3f68fbafd10fba49a2c0eb10"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
 metafile = true
 
 [[files]]
@@ -336,6 +356,11 @@ hash = "9f2d48ac1a0c6f4f58360a4084a3748ffac3f1963601a11f3722f0df3053a3a8"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "6f233f2aecb4f82d159117497b0dfc728c13c2acb515e6516de3916997f0a099"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "f838d1d448db7bbed7c5c4c1ad56c863a5393acf2943a818f1d15b16e18cad5f"
 metafile = true
@@ -406,6 +431,11 @@ hash = "dd8ba38757d9e7743b0c9a6c5b21a8167b1c0fa1a982a836cc3bb9efc4bb61e9"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "8448edb1ac227ae3c264abbe50e2744f8b75fc2e34abe16c234caf21ca031970"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "79a44cccc73cb418b07f2bea85029a82428065e73519ef5b9c0444f77b041f53"
 metafile = true
@@ -461,6 +491,11 @@ hash = "0ed50ac789e698c8cdd21a661a20f14812b2b75f4b4907a2ea688420500874a2"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -508,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "9d399c9d4dad20b73d05fa85c8ee9fbb660fd4e78bd4dd21780e19013b499e7c"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
 
 [[files]]
