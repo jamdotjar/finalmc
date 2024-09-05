@@ -756,11 +756,6 @@ hash = "f9d57c066b44e446e07b6f0d47f568def4a82d68a42e72bc86edd696332ac90d"
 metafile = true
 
 [[files]]
-file = "mods/rp-renames.pw.toml"
-hash = "653c9767905e2b939d3b1588c70ebaafb2c2713e9897b9e82d9503b1e0f4a86b"
-metafile = true
-
-[[files]]
 file = "mods/runes.pw.toml"
 hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
 metafile = true
@@ -808,6 +803,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "841d1da4cb9da9e83b7ac7a2104af1c49f1ffa4a9ad38a4bf0d138f1dac020f4"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
