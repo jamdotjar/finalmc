@@ -31,6 +31,11 @@ hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
 file = "mods/archers.pw.toml"
 hash = "616f08ac2b9ec995dfbb3c7799abf6396c5a8b32a51e00a781bcc8cc60378df1"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
 
 [[files]]
@@ -176,6 +186,11 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "06145ca45de626bfe5698843947c863648d2a1326766f0b92122eaefcbad1010"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
@@ -213,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/difficulty.pw.toml"
 hash = "64fbd73858e5efb40c661e81e00cf24cb3009210639b739c1da61cecfb756d00"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "70aefbce9559148315d8a763c834195338729c11c1c2a2fe1b375e4600e1efa0"
 metafile = true
 
 [[files]]
@@ -468,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tabs.pw.toml"
+hash = "cf11a2f3584998ee7f7708e84d5b4d7ca06f3a74566628e213b632a521ae27fe"
 metafile = true
 
 [[files]]
