@@ -1,0 +1,13 @@
+name = "Expanded Storage"
+filename = "expandedstorage-10.3.0-beta.5+1.20.1-quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCCPlP3c/versions/WFNUj3D8/expandedstorage-10.3.0-beta.5%2B1.20.1-quilt.jar"
+hash-format = "sha512"
+hash = "9444bca5029be7f7623e45c986d213b1eb33b540e77ff85f2740a62c14e5d869ac6a974a99eeaf0ed93d6c3ab9bd117e5f3f23da321673e354549c8355e8eaaa"
+
+[update]
+[update.modrinth]
+mod-id = "jCCPlP3c"
+version = "WFNUj3D8"
